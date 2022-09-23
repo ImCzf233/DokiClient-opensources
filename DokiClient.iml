@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/Run/.minecraft/assets" />
+      <excludeFolder url="file://$MODULE_DIR$/Run/.minecraft/libraries" />
+      <excludeFolder url="file://$MODULE_DIR$/Run/.minecraft/resourcepacks" />
+      <excludeFolder url="file://$MODULE_DIR$/Run" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="mclib" level="project" />
+    <orderEntry type="library" name="lib" level="project" />
+    <orderEntry type="library" name="apache.logging.log4j.core" level="project" />
+    <orderEntry type="library" name="net.java.dev.jna" level="project" />
+    <orderEntry type="library" name="KotlinJavaRuntime" level="project" />
+    <orderEntry type="library" name="reflections" level="project" />
+  </component>
+</module>
