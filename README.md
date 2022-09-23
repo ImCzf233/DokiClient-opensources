@@ -10,14 +10,6 @@ package just.monika.反编译我代码油饼食不食
 package just.monika.主播你有反编译我代码的时间还不如自己写一个端子.主播你IQ行不行啊
 ```
 
-_Bad 👎🏻_
-
-```java
-package today.getvapu;
-package com.cubk;
-package ml.mckuhei;
-```
-
 Chinese：
 
 去你大爷的禁止倒卖 老子就倒卖咋了 nmsl
